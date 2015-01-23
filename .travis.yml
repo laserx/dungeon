@@ -2,3 +2,6 @@ language: bash
 
 script:
     - bash test.sh
+
+notifications:
+  slack: rollball:GM0Yx1a2LaIoJCbgt19UylVB
